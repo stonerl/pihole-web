@@ -11,24 +11,10 @@
 var timeLineChart, clientsChart;
 var queryTypePieChart, forwardDestinationPieChart;
 
-var THEME_COLORS = [
-  "#f56954",
-  "#3c8dbc",
-  "#00a65a",
-  "#00c0ef",
-  "#f39c12",
-  "#0073b7",
-  "#001f3f",
-  "#39cccc",
-  "#3d9970",
-  "#01ff70",
-  "#ff851b",
-  "#f012be",
-  "#8e24aa",
-  "#d81b60",
-  "#222222",
-  "#d2d6de",
-];
+var THEME_COLORS = [];
+for (var i = 1; i <= 20; i++) {
+  THEME_COLORS[i - 1] = $(":root").css("--graph-color" + i);
+}
 
 var customTooltips = function (context) {
   var tooltip = context.tooltip;
