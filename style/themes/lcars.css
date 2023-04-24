@@ -11,6 +11,28 @@
   --net-old-color: #125;
   --net-older-color: #1c2228;
   --datatable-bgcolor: var(--net-old-color);
+
+  /* Client graph colors */
+  --graph-color1: #d43;
+  --graph-color2: #fc0;
+  --graph-color3: #095;
+  --graph-color4: #9cf;
+  --graph-color5: #48f;
+  --graph-color6: #04f;
+  --graph-color7: #029;
+  --graph-color8: #ebf;
+  --graph-color9: #b6d;
+  --graph-color10: #70b;
+  --graph-color11: #fc9;
+  --graph-color12: #e97;
+  --graph-color13: #6fc;
+  --graph-color14: #043;
+  --graph-color15: #345;
+  --graph-color16: #fff;
+  --graph-color17: #f58;
+  --graph-color18: #a08;
+  --graph-color19: #603;
+  --graph-color20: #740;
 }
 
 .sidebar-collapse {

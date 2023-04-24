@@ -25,6 +25,28 @@
 
   --allowed-color: #3c7;
   --blocked-color: var(--danger-color);
+
+  /* Client graph colors */
+  --graph-color1: #ee5038;
+  --graph-color2: #3c8dbc;
+  --graph-color3: #00a65a;
+  --graph-color4: #00c0ef;
+  --graph-color5: #ffbb06;
+  --graph-color6: #0058e0;
+  --graph-color7: #0024a0;
+  --graph-color8: #08d8d0;
+  --graph-color9: #205849;
+  --graph-color10: #b01260;
+  --graph-color11: #ff854b;
+  --graph-color12: #01ff70;
+  --graph-color13: #f012be;
+  --graph-color14: #7812bb;
+  --graph-color15: #182233;
+  --graph-color16: #c0c6cc;
+  --graph-color17: #9c5020;
+  --graph-color18: #e6c694;
+  --graph-color19: #c080ee;
+  --graph-color20: #c800ff;
 }
 
 /* removing transition for every element, to avoid unnecessary movement */

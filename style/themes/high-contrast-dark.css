@@ -29,6 +29,28 @@
   --blocked-color: var(--danger-color);
 
   --datatable-bgcolor: rgba(18, 44, 68, 0.3);
+
+  /* Client graph colors */
+  --graph-color1: #ee5038;
+  --graph-color2: #00a9ff;
+  --graph-color3: #00a65a;
+  --graph-color4: #90d0ff;
+  --graph-color5: #ffbb06;
+  --graph-color6: #0068c8;
+  --graph-color7: #0030ee;
+  --graph-color8: #00c8c0;
+  --graph-color9: #205849;
+  --graph-color10: #b01260;
+  --graph-color11: #ff854b;
+  --graph-color12: #01ff70;
+  --graph-color13: #f012be;
+  --graph-color14: #7812bb;
+  --graph-color15: #444854;
+  --graph-color16: #c0c6cc;
+  --graph-color17: #9c5020;
+  --graph-color18: #e6c694;
+  --graph-color19: #c080ee;
+  --graph-color20: #c800ff;
 }
 
 /* removing transition for every element, to avoid unnecessary movement */
